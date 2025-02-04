@@ -35,9 +35,9 @@ Para compilar o projeto, você precisará de um compilador C instalado. Para sis
     ```bash
     ./client <server_pid> <mensagem>
 
-Exemplo:
-    ```bash
-    ./client 12345 "Olá, servidor!"
+3. Exemplo:
+   ```bash
+   ./client 12345 "Olá, servidor!"
 
 # Exemplo de Execução
 
